@@ -1,0 +1,246 @@
+# depslib dependency file v1.0
+1607724511 source:c:\users\karee\onedrive\documents\assignments\csc-530\final project - karim elagamy\sentiment analysis project\dictionary.cpp
+	"Dictionary.h"
+
+1607736419 c:\users\karee\onedrive\documents\assignments\csc-530\final project - karim elagamy\sentiment analysis project\dictionary.h
+	<string>
+	<iostream>
+	<map>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<iterator>
+	"Dictionary.h"
+
+1607727443 source:c:\users\karee\onedrive\documents\assignments\csc-530\final project - karim elagamy\sentiment analysis project\tweet.cpp
+	"Tweet.h"
+
+1607727443 c:\users\karee\onedrive\documents\assignments\csc-530\final project - karim elagamy\sentiment analysis project\tweet.h
+	<string>
+	<iostream>
+
+1639094506 source:c:\users\karee\onedrive\documents\assignments\csc-530\final project - karim elagamy\sentiment analysis project\tweetholder.cpp
+	"TweetHolder.h"
+	<sstream>
+	<iostream>
+	<fstream>
+	<vector>
+	"csv.h"
+
+1607727358 c:\users\karee\onedrive\documents\assignments\csc-530\final project - karim elagamy\sentiment analysis project\tweetholder.h
+	<string>
+	<iostream>
+	"Tweet.h"
+
+1607734646 source:c:\users\karee\onedrive\documents\assignments\csc-530\final project - karim elagamy\sentiment analysis project\main.cpp
+	<cstdlib>
+	<iostream>
+	<map>
+	"TweetHolder.h"
+	"Analysis.h"
+	"Dictionary.h"
+
+1607727484 c:\users\karee\onedrive\documents\assignments\csc-530\final project - karim elagamy\sentiment analysis project\analysis.h
+	<string>
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<algorithm>
+	<iterator>
+	"Tweet.h"
+	"TweetHolder.h"
+
+1607728346 source:c:\users\karee\onedrive\documents\assignments\csc-530\final project - karim elagamy\sentiment analysis project\analysis.cpp
+	"Analysis.h"
+
+1638924655 c:\users\karee\onedrive\documents\assignments\csc-530\final project - karim elagamy\sentiment analysis project\rapidcsv.h
+	<vector>
+	<string>
+	<cstring>
+	<algorithm>
+	<utility>
+	<cstdio>
+	<exception>
+	<mutex>
+	<thread>
+	<condition_variable>
+	<memory>
+	<cassert>
+	<cerrno>
+	<istream>
+	<limits>
+
+1638924655 c:\users\karee\onedrive\documents\assignments\csc-530\final project - karim elagamy\sentiment analysis project\csv.h
+	<vector>
+	<string>
+	<cstring>
+	<algorithm>
+	<utility>
+	<cstdio>
+	<exception>
+	<mutex>
+	<thread>
+	<condition_variable>
+	<memory>
+	<cassert>
+	<cerrno>
+	<istream>
+	<limits>
+
+1639097455 source:c:\users\karee\onedrive\documents\assignments\csc-483\final project - twitter sentiment analysis tool\sentiment analysis\analysis.cpp
+	"Analysis.h"
+
+1607727484 c:\users\karee\onedrive\documents\assignments\csc-483\final project - twitter sentiment analysis tool\sentiment analysis\analysis.h
+	<string>
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<algorithm>
+	<iterator>
+	"Tweet.h"
+	"TweetHolder.h"
+
+1607727443 c:\users\karee\onedrive\documents\assignments\csc-483\final project - twitter sentiment analysis tool\sentiment analysis\tweet.h
+	<string>
+	<iostream>
+
+1607727358 c:\users\karee\onedrive\documents\assignments\csc-483\final project - twitter sentiment analysis tool\sentiment analysis\tweetholder.h
+	<string>
+	<iostream>
+	"Tweet.h"
+
+1607724511 source:c:\users\karee\onedrive\documents\assignments\csc-483\final project - twitter sentiment analysis tool\sentiment analysis\dictionary.cpp
+	"Dictionary.h"
+
+1607736419 c:\users\karee\onedrive\documents\assignments\csc-483\final project - twitter sentiment analysis tool\sentiment analysis\dictionary.h
+	<string>
+	<iostream>
+	<map>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<iterator>
+	"Dictionary.h"
+
+1639097691 source:c:\users\karee\onedrive\documents\assignments\csc-483\final project - twitter sentiment analysis tool\sentiment analysis\main.cpp
+	<cstdlib>
+	<iostream>
+	<map>
+	"TweetHolder.h"
+	"Analysis.h"
+	"Dictionary.h"
+
+1607727443 source:c:\users\karee\onedrive\documents\assignments\csc-483\final project - twitter sentiment analysis tool\sentiment analysis\tweet.cpp
+	"Tweet.h"
+
+1639099001 source:c:\users\karee\onedrive\documents\assignments\csc-483\final project - twitter sentiment analysis tool\sentiment analysis\tweetholder.cpp
+	"TweetHolder.h"
+	<sstream>
+	<iostream>
+	<fstream>
+	<vector>
+	"csv.hpp"
+
+1639094780 c:\users\karee\onedrive\documents\assignments\csc-483\final project - twitter sentiment analysis tool\sentiment analysis\csv.hpp
+	<algorithm>
+	<deque>
+	<fstream>
+	<iterator>
+	<memory>
+	<mutex>
+	<thread>
+	<sstream>
+	<string>
+	<vector>
+	<windows.h>
+	<unistd.h>
+	<iterator>
+	<string>
+	<system_error>
+	<cstdint>
+	<windows.h>
+	<type_traits>
+	<algorithm>
+	<unistd.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<sys/stat.h>
+	<windows.h>
+	<unistd.h>
+	<system_error>
+	<memory>
+	<algorithm>
+	<array>
+	<condition_variable>
+	<deque>
+	<fstream>
+	<memory>
+	<mutex>
+	<unordered_map>
+	<unordered_set>
+	<thread>
+	<vector>
+	<memory>
+	<unordered_map>
+	<string>
+	<vector>
+	<algorithm>
+	<array>
+	<cmath>
+	<cstdlib>
+	<deque>
+	<Windows.h>
+	<unistd.h>
+	<type_traits>
+	<string_view>
+	<algorithm>
+	<cassert>
+	<iterator>
+	<limits>
+	<ostream>
+	<string>
+	<stdexcept>
+	<type_traits>
+	<functional>
+	<stdint.h>
+	<stdint.h>
+	<string_view>
+	<iterator>
+	<stdexcept>
+	<string>
+	<vector>
+	<cmath>
+	<iterator>
+	<memory>
+	<limits>
+	<unordered_map>
+	<unordered_set>
+	<string>
+	<sstream>
+	<vector>
+	<cmath>
+	<cctype>
+	<string>
+	<cassert>
+	<unordered_map>
+	<sstream>
+	<vector>
+	<string>
+	<type_traits>
+	<unordered_map>
+	<fstream>
+	<iostream>
+	<string>
+	<tuple>
+	<type_traits>
+	<vector>
+	<algorithm>
+	<set>
+	<cassert>
+	<functional>
+	<string>
+	<sstream>
+	<vector>
+
